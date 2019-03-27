@@ -15,7 +15,7 @@
 
 * 掌握了用于实现比较的 Equals、GetHashCode、CompareTo、Compare 方法
 
-* 掌握了Tostring方法的用法和用途
+* 掌握了 ToString 方法的用法和用途
 
 * 熟悉了lambda表达式的用法（有待进一步提高）
 
