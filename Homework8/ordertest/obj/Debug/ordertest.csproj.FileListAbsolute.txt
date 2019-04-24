@@ -1,0 +1,6 @@
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\bin\Debug\ordertest.exe.config
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\bin\Debug\ordertest.exe
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\bin\Debug\ordertest.pdb
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\obj\Debug\ordertest.exe
+C:\Users\liupe\Desktop\Homework8\homework8\Homework8\homework6\obj\Debug\ordertest.pdb
